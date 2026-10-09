@@ -8,7 +8,7 @@
 
 ## Diagrama del enfoque arquitectónico
 
-![Diagrama del enfoque arquitectónico](../../imagen/enfoque-arquitectonico.png)
+![Diagrama del enfoque arquitectónico](../../../img/enfoque-arquitectonico.png)
 
 ## Descripción del enfoque arquitectónico
 

@@ -1,6 +1,6 @@
 ## Diagrama de arquitectura
 
-![Diagrama del estilo arquitectónico](../imagen/estilo-arquitectonico.png)
+![Diagrama del estilo arquitectónico](../../img/estilo-arquitectonico.png)
 
 ## Descripción del estilo arquitectónico
 
